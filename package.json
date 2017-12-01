@@ -1,0 +1,28 @@
+{
+  "name": "wtdc-react-component",
+  "version": "1.0.4",
+  "description": "react-component",
+  "main": "src/component.js",
+  "repository": "git@github.com:SnowFlowers/wtdc-react-component.git",
+  "keywords": [
+    "react",
+    "immutable"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "immutable": "*"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-runtime": "^6.23.0",
+    "webpack": "^2.5.1"
+  },
+  "author": "Paco <772045739@qq.com>",
+  "license": "MIT"
+}
